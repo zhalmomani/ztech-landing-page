@@ -174,6 +174,4 @@ This template is provided "as is" without warranties of any kind. The following 
 
 By using this template, you acknowledge that you have read and understood this disclaimer and agree to its terms.
 
-For questions or customization services, please contact: support@ztech.com
-
 Thank you for choosing Z-Tech !
